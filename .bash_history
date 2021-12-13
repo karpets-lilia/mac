@@ -486,3 +486,13 @@ cd ..
 sfdx force:project:create -h sfdx
 cd sfdx
 sfdx force:mdapi:convert -r ./src
+sfdx force:org:create -d 30 -fauth:web:login -a MyDevHub -d
+sfdx force:auth:web:login -a MyDevHub -d
+sfdx force:org:create -d 30 -f config/project-scratch-def.json -a so_sfdx -s -v MyDevHub
+sfdx force:source:push
+sfdx force:org:open
+sfdx force:auth:web:login -a MyDevHub -d
+sfdx force:org:create -d 30 -fauth:web:login -a MyDevHub -d
+sfdx force:org:create -d 30 -f config/project-scratch-def.json -a so_sfdx -s -v MyDevHub
+sfdx force:source:push
+sfdx force:org:open
