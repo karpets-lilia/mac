@@ -1,0 +1,9 @@
+export JAVA_HOME=/opt/apache-maven-3.8.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mac/apps/apache-maven-3.8.1 2/bin
+export PATH=/opt/apache-maven-3.6.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1 2/bin
+export PATH=/opt/apache-maven-3.6.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1 2/bin
+export PATH=/opt/apache-maven-3.6.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1 2/bin
+export PATH=/opt/apache-maven-3.6.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1 /bin
+export M2_HOME=/Applications/apache-maven-3.8.1 2
+export PATH=$PATH:$M2_HOME/bin
+export PATH=/opt/apache-maven-3.6.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1:/Users/mac/apps/apache-maven-3.8.1:/Applications/apache-maven-3.8.1/bin:/Users/mac/apps/apache-maven-3.8.1/bin
