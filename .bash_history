@@ -1,30 +1,3 @@
-system_profiler SPHardwareDataType | drep Serial
-system_profiler SPhardwareDataType | grep Serial
-тьтьбь
-java -version
-javac -version
- /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:50158 --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/2ab20bef8d127a70b2bc623eee2c6c07/redhat.java/jdt_ws/Visual Studio projects_14c10df1/bin" java.Example 
-which java
-/usr/bin/java_home -v
-which jdk
-clear
-which jdk
-clear
-which java
-which jdk
-/usr/libexec/java_home -v
- /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp /private/var/folders/65/zn_dts6963l8f7jzhszzmqnw0000gn/T/vscodesws_78465/jdt_ws/jdt.ls-java-project/bin Example 
- /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" IfDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" IfDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" IfDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" IfDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" ForDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" ForDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" ForDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" BlockDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" BlockDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" BlockDemo 
- cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" GalToLitTable 
  cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" GalToLitTable 
  cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" ForDemo 
  cd "/Users/mac/Documents/Visual Studio projects/JavaProject" ; /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -Dfile.encoding=UTF-8 -cp "/Users/mac/Library/Application Support/Code/User/workspaceStorage/ed15691e558ed3bf92c3fba11d42687a/redhat.java/jdt_ws/JavaProject_34219f59/bin" GalToLitTable 
@@ -496,3 +469,32 @@ sfdx force:org:create -d 30 -fauth:web:login -a MyDevHub -d
 sfdx force:org:create -d 30 -f config/project-scratch-def.json -a so_sfdx -s -v MyDevHub
 sfdx force:source:push
 sfdx force:org:open
+sfdx force:auth:web:login -a mySFDXDevHub -d
+sfdx force:org:create -d 30 -f config/project-scratch-def.json -a so_sfdsproject -s -v mySFDXDevHub
+sfdx force:push
+sfdx force:source:push
+sfdx force:source:open
+sfdx force:org:open
+sfdx force:source:poll
+sfdx force:source:pull
+git remote add origin https://github.com/karpets-lilia/SFDXProject.git
+git push -u origin master
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/karpets-lilia/SFDXProject.git
+git push -u origin master
+git status
+git clone  https://github.com/karpets-lilia/SFDXProject.git
+sfdx force:org:open
+sfdx force:org:open -u mySFDXProject
+sfdx force:org:open -u so_sfdxproject
+sfdx force:org:open -u so_sfdxProject
+sfdx force:org:open -u -a so_sfdsproject
+sfdx force:org:open -u so_sfdsproject
+sfdx force:org:open -u so_sfdsproject
+sfdx force:source:pull
+sfdx force:org:open -u so_sfdsproject
+sfdx force:source:pull
+sfdx force:source:pull -u sfdx config:set defaultusername=test-tgifvplqyezq@example.com
+sfdx force:source:pull
+sfdx force:org:open -u so_sfdsproject
